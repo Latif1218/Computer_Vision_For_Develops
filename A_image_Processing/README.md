@@ -5,3 +5,5 @@ conda activate cvdev
 pip install -r requirements.txt
 
 pip list
+
+python file.py
